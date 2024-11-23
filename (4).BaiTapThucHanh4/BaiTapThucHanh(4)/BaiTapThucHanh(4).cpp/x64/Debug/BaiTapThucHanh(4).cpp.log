@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BaiTapThucHanh(4).cpp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  testGk.cpp
+D:\BaiHoc\BaiTap(Nhập Môn Lập Trình C++).cpp\(4).BaiTapThucHanh4\BaiTapThucHanh(4)\BaiTapThucHanh(4).cpp\testGk.cpp(258,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BaiTapThucHanh(4).cpp.vcxproj -> D:\BaiHoc\BaiTap(Nhập Môn Lập Trình C++).cpp\(4).BaiTapThucHanh4\BaiTapThucHanh(4)\BaiTapThucHanh(4).cpp\x64\Debug\BaiTapThucHanh(4a).cpp.exe
